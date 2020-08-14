@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.pivotal.ecosystem.mssqlserver.broker.H2SqlServerClientTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in io.pivotal.ecosystem.mssqlserver.broker.H2SqlServerClientTest

@@ -1,0 +1,6 @@
+io/pivotal/ecosystem/mssqlserver/broker/client/Application.class
+io/pivotal/ecosystem/mssqlserver/broker/client/Quote.class
+io/pivotal/ecosystem/mssqlserver/broker/client/QuoteRepository.class
+io/pivotal/ecosystem/mssqlserver/broker/client/QuoteController.class
+io/pivotal/ecosystem/mssqlserver/broker/client/QuoteRepositoryPopulator$1.class
+io/pivotal/ecosystem/mssqlserver/broker/client/QuoteRepositoryPopulator.class

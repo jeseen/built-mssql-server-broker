@@ -1,0 +1,9 @@
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/H2ServiceInstanceTest.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/H2SqlServerClientTest.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/SharedConfig.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/MsSqlServerClientTest.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/H2Config.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/MsServiceInstanceTest.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/H2Sql.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/MsSqlServerBrokerTest.java
+/mssql-server-broker/broker/src/test/java/io/pivotal/ecosystem/mssqlserver/broker/H2SqlServerBrokerTest.java
